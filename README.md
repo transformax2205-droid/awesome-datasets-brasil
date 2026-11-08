@@ -53,6 +53,7 @@ O foco é praticidade para projetos de dados: apenas fontes oficiais (governo, i
 - [Banco Central - Expectativas de Mercado (Pesquisa Focus)](https://dadosabertos.bcb.gov.br/dataset/expectativas-mercado): Expectativas de mercado da Pesquisa Focus para IPCA, PIB, Selic e câmbio (mensais, anuais e Top5); API OData (Olinda) em JSON, CSV e XML.
 - [Portal Brasileiro de Dados Abertos - Economia e Finanças](https://dados.gov.br/dados/temas/economia-e-financas): Tema do catálogo federal que reúne conjuntos econômico-financeiros de diversos órgãos (Fazenda, STN, BCB) com metadados e downloads em CSV/JSON/API.
 - [IBGE - SIDRA (Sistema IBGE de Recuperação Automática)](https://sidra.ibge.gov.br/): Tabelas oficiais de indicadores econômicos (IPCA/INPC, PIB, PNAD, produção industrial); consulta web e API REST de dados agregados em JSON.
+- [cTribNac: Códigos de Tributação Nacional da NFS-e](https://notafiscalafiliados.com.br/guia/codigo-tributacao-nacional-nfse-lista): Tabela dos 338 códigos de tributação nacional da NFS-e Nacional (Anexo B da lista de serviços, LC 116/2003) com item da LC 116, descrição oficial e onde o ISS é devido; busca na página e download em CSV e JSON (CC BY 4.0), também no GitHub e como pacote Python ctribnac.
 
 ## Educacao (INEP, ENEM, Censo Escolar, CAPES)
 
